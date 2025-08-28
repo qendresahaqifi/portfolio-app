@@ -20,7 +20,7 @@ const About = () => {
                     </p>
                     <div className='flex flex-col sm:flex-row gap-4 pt-4 justify-center'>
                         <a href="#contact" className='cosmic-button'>Get In Touch</a>
-                        <a href="" className='px-6 py-2 rounded-full border border-primary hover:bg-primary/10 hover:scale-105 active:scale-95 transition-all duration-300'>Download CV</a>
+                        <a href="/qendresahaqifi-cv.pdf" className='px-6 py-2 rounded-full border border-primary hover:bg-primary/10 hover:scale-105 active:scale-95 transition-all duration-300'>Download CV</a>
                     </div>
                 </div>
 
